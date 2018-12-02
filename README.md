@@ -2,4 +2,5 @@
 CSEC380 BlogPost Source code
 
 To compile run:
-gcc -o [some name] genericRansom.c -lcrypto
+.. code-block:: bash
+  gcc -o [some name] genericRansom.c -lcrypto
